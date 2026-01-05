@@ -1,0 +1,14 @@
+{
+    "notesName": "ObsidianNotes",
+    "sourceFolder": "C:\\Path\\To\\Notes",
+    "backupFolder": "C:\\Users\\YourName\\Dropbox\\Backups",
+    "logFolderName": "_logs",
+    "email": {
+      "from": "you@example.com",
+      "to": "you@example.com",
+      "smtpServer": "smtp.example.com",
+      "smtpPort": 587,
+      "useSsl": true,
+      "credentialFile": "C:\\Users\\YourName\\.notes-backup\\smtp-cred.xml"
+    }
+  }
