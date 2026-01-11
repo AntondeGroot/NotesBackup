@@ -37,7 +37,7 @@ Edit config.json and set the variables.
 ```powershell
 powershell.exe `
   -ExecutionPolicy Bypass `
-  -File backup-notes.ps1 `
+  -File backup.ps1 `
   -ConfigPath "C:\path\to\config.json"
 ```
 
