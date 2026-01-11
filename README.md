@@ -73,7 +73,7 @@ With an example folder `C:\Repositories\NotesBackup`
 ```
 powershell.exe `
   -ExecutionPolicy Bypass `
-  -File .\backup-notes.ps1 `
+  -File .\backup.ps1 `
   -ConfigPath "C:\Repositories\NotesBackup\config.json"
   ```
 
